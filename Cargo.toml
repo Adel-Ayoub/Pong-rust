@@ -1,0 +1,8 @@
+[package]
+name = "adel"
+version = "0.1.0"
+authors = ["Adel"]
+edition = "2021"
+
+[dependencies]
+tetra = "0.8"
