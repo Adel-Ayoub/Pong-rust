@@ -1,4 +1,3 @@
-//use tetra::graphics::{Texture, Drawable, DrawParams};
 use crate::entities::Entity;
 use crate::updatable::Updatable;
 use crate::WINDOW_HEIGHT;
